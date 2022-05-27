@@ -92,7 +92,7 @@ html.theme-light .app-2CXKsg::after {
   color: #fff;
 }
 html.theme-light .container-YkUktl {
-  bottom: 81px !important;
+  bottom: 51px !important;
 }
 
 .full-motion [class*=animator] {
@@ -908,11 +908,6 @@ html.theme-light .container-YkUktl {
 #app-mount .channel-1Shao0 .selected-3veCBZ .subText-3Sk0zy {
   color: #fff;
 }
-
-#app-mount .panels-3wFtMD {
-  background: transparent;
-  padding: 0;
-}
 #app-mount .wrapper-3Hk9OB:not(:empty) {
   border-top: 1px solid var(--border);
 }
@@ -972,7 +967,7 @@ html.theme-light .container-YkUktl {
 }
 #app-mount .container-YkUktl {
   padding: 0 16px;
-  height: 64px;
+  height: 52px;
   border-top: 1px solid var(--border);
 }
 
